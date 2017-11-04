@@ -1,0 +1,2 @@
+# METUNCCFAQRESPONDER
+AI course project
